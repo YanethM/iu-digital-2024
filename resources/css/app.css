@@ -1,0 +1,12 @@
+@import 'bootstrap';
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #fff;
+}
